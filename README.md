@@ -1,0 +1,1 @@
+# This is a repo containing the files and implementation of scripts in a PL/SQL project that I was assigned in my SQL coding class. I recently fixed the files to correct errors and clean up code for demonstration purposes.
